@@ -1,0 +1,15 @@
+.avatar {
+    width: 301px;
+    height: 356px;
+    background-position: center center;
+    background-image: url('img/avatar.png');
+    background-size: 301px 356px;
+    background-repeat: no-repeat;
+    color: #496bad;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.appbutton {
+    max-height: 50px;
+}
